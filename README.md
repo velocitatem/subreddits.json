@@ -4,10 +4,6 @@ A simple and useful dataset of subreddit names extracted from [ConvoKit’s](htt
 
 > 📘 Ideal for NLP projects, data mining, or building Reddit-focused tools and visualizations.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/velocitatem/subreddits.json.git?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/velocitatem/subreddits.json?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/velocitatem/subreddits.json?style=flat-square)
-
 ## 📦 What's Inside
 
 A single JSON file:
