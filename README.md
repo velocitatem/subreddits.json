@@ -1,18 +1,47 @@
-# Subreddits JSON
+# 🗂️ Subreddits JSON
 
-This repository contains a list of subreddit names extracted from ConvoKit's by-subreddit corpus. The data comes from [ConvoKit](https://convokit.cornell.edu/documentation/).
+A simple and useful dataset of subreddit names extracted from [ConvoKit’s](https://convokit.cornell.edu/documentation/) **by-subreddit corpus**.
 
-## Download
+> 📘 Ideal for NLP projects, data mining, or building Reddit-focused tools and visualizations.
 
-To download the `subreddits.json` file as a raw file, use the following curl command:
+![GitHub repo size](https://img.shields.io/github/repo-size/velocitatem/subreddits.json.git?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/velocitatem/subreddits.json?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/velocitatem/subreddits.json?style=flat-square)
 
-```sh
+## 📦 What's Inside
+
+A single JSON file:
+
+```bash
+subreddits.json
+```
+
+This file contains a clean list of subreddit names derived from a curated corpus—ready to be consumed by your code, scripts, or machine learning pipeline.
+
+
+## 📥 Download
+
+Quickly download the raw JSON file with:
+
+```bash
 curl -O https://raw.githubusercontent.com/velocitatem/subreddits.json/main/subreddits.json
 ```
 
-## Tags
+Or clone the repository:
 
-- Subreddits
-- JSON
-- ConvoKit
-- Data
+```bash
+git clone https://github.com/velocitatem/subreddits.json.git
+```
+
+
+## 🔧 Usage Ideas
+
+* 🌐 Subreddit recommendation systems
+* 🧠 NLP model training (topic classification, entity recognition)
+* 📊 Reddit data visualization tools
+* 🧹 Corpus filtering and preprocessing pipelines
+
+
+## 🏷 Tags
+
+`Subreddits` • `JSON Dataset` • `ConvoKit` • `NLP` • `Reddit Corpus`
